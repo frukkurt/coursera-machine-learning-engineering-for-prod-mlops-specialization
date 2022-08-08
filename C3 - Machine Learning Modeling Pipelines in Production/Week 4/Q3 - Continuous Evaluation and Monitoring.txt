@@ -88,13 +88,13 @@ In unsupervised settings, clustering is a very useful method to detect novelty i
 population-based, cluster-based
 
 
-cluster-based, population-based.
+> cluster-based, population-based.
 
 
-feature, cluster-based
+x feature, cluster-based
 
 
-> cluster-based, feature
+x cluster-based, feature
 
 Correct
 That’s right! Drift is detected only on a cluster centric view,
