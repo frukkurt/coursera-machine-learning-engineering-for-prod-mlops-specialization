@@ -126,7 +126,7 @@ What are the unique challenges to overcome in a production-grade ML system? (Che
 Optimizing computational resources and costs.
 
 
- Deploying the model to serve requests.
+x Deploying the model to serve requests.
 
 
 > Handling continuously changing data.
@@ -147,7 +147,7 @@ Very well! ML systems perform all operations starting from ingesting the data in
 Continually operating while in production.
 
 
-Assessing model performance.
+x Assessing model performance.
 
 
 9.
