@@ -135,7 +135,7 @@ Correct
 Indeed! Data will change over the life cycle of a production system, which can harm its performance.
 
 
-Training the model on real world data.
+x Training the model on real world data.
 
 
 > Building integrated ML systems.
